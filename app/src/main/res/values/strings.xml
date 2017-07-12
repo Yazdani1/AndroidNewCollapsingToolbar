@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidNewCollapsingToolbar</string>
+
+    <string name="recent_news">There are many variations of passages of Lorem Ipsum available</string>
+    <string name="in_news">It is a long established fact that a reader will bedistracted by the
+        readable content of a page when looking at its layout.It is a long established fact that a reader will bedistracted by the
+        readable content of a page when looking at its layout.It is a long established fact that a reader will bedistracted by the
+        readable content of a page when looking at its layout.</string>
+    <string name="publish_date">2017-07-25 12:13:14</string>
+</resources>
